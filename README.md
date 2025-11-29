@@ -11,7 +11,7 @@ Below are several graphs that together provide a comprehensive overview of attri
 
 1. **Overall Employee Attrition Rate**
    
-   ![Attrition_Rate_graph.png](Attrition_Rate_graph.png)
+   ![Attrition_Rate_graph.png](Users\ofirs\Final Project - Python\Final-Project---Python\Attrition_Rate_graph.png)
    
 
 2. **Years as an Employee at the Company**
@@ -21,6 +21,7 @@ Below are several graphs that together provide a comprehensive overview of attri
 3. **Attrition Rate by Job Role**
    
    ![Attrition_Analysis_by_Job_Role.png](./Attrition_Analysis_by_Job_Role.png)
+
 
 4. **Attrition by Length of Service**
    
