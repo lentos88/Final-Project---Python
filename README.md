@@ -11,11 +11,12 @@ Below are several graphs that together provide a comprehensive overview of attri
 
 1. **Overall Employee Attrition Rate**
    
-   ![Attrition_Rate_graph.png](./Attrition_Rate_graph.png)
+   ![Attrition_Rate_graph.png](Attrition_Rate_graph.png)
+   
 
 2. **Years as an Employee at the Company**
    
-   ![Employees_Years_at_Company_by_Job_Role_graph.png](./Employees_Years_at_Company_by_Job_Role_graph.png)
+   ![Employees_Years_at_Company_by_Job_Role_graph.png](Employees_Years_at_Company_by_Job_Role_graph.png)
 
 3. **Attrition Rate by Job Role**
    
