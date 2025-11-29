@@ -5,9 +5,25 @@ Welcome to the **HR Employee Attrition Analysis** dashboard, based on insights f
 
 ---
 
-## KPI 1: **Overall Employee Attrition**
+## KPI 1: **Attrition Trends and Patterns (by attrition rate)**
 
-![Overall_Employee_Attrition.png](./Overall_Employee_Attrition.png)
+Below are several graphs that together provide a comprehensive overview of attrition trends and patterns:
+
+1. **Overall Employee Attrition Rate**
+   
+   ![Attrition_Rate_graph.png](./Attrition_Rate_graph.png)
+
+2. **Years as an Employee at the Company**
+   
+   ![Employees_Years_at_Company_by_Job_Role_graph.png](./Employees_Years_at_Company_by_Job_Role_graph.png)
+
+3. **Attrition Rate by Job Role**
+   
+   ![Attrition_Analysis_by_Job_Role.png](./Attrition_Analysis_by_Job_Role.png)
+
+4. **Attrition by Length of Service**
+   
+   ![Attrition_in_Relation_to_Years_at_Company.png](./Attrition_in_Relation_to_Years_at_Company.png)
 
 *Explanation:*  
 Presents the overall percentage of employees who have left the organization, serving as a primary metric for assessing workforce stability.
