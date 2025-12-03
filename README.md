@@ -41,27 +41,27 @@ The dataset contains:
 
 * 36 features, including:
 
-   * Demographics: Age, Gender, Marital Status, Education
-   * Job details: Job Role, Department, Job Level, Years at Company
-   * Compensation: Monthly Income, Stock Options, Salary Hike
-   * Satisfaction metrics: Job Satisfaction, Environment Satisfaction, Work-Life Balance
-   * Commute: Distance From Home
-   * Performance rating
-   * Attrition (Yes/No)
+   * Demographics: Age, Gender, Marital Status, Education.
+   * Job details: Job Role, Department, Job Level, Years at Company.
+   * Compensation: Monthly Income, Stock Options, Salary Hike.
+   * Satisfaction metrics: Job Satisfaction, Environment Satisfaction, Work-Life Balance.
+   * Commute: Distance From Home.
+   * Performance rating.
+   * Attrition (Yes/No).
 
    ---
 
 ## Analysis Steps
 
 1. **Data Loading & Cleaning**:
-   * Imported dataset using Pandas
-   * Checked missing values (none found)
-   * Created calculated fields
+   * Imported dataset using Pandas.
+   * Checked missing values (none found).
+   * Created calculated fields.
 
 2. **Exploratory Data Analysis (EDA)**:
-   * Visualized distributions of income, distance, tenure
-   * Cross-tabulation of attrition by demographics and departments
-   * Correlation heatmap to identify strongest relationships
+   * Visualized distributions of income, distance and tenure.
+   * Cross-tabulation of attrition by demographics and departments.
+   * Correlation heatmap to identify strongest relationships.
 
 3. **KPI Evaluation**: <br>
    Based on the project guidelines, the following KPIs were analyzed:
