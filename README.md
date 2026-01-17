@@ -7,6 +7,14 @@ This repository contains a full data analysis project focused on understanding *
 The analysis was conducted in a Jupyter Notebook (Python_Final_Project2.ipynb) and visualized through dashboard using multiple KPI
 
 ---
+## My Contribution
+
+- Contributed to KPI 1 (Attrition Trends and Patterns) as part of a team analysis.
+- Led the end-to-end analysis for KPI 4 (Career Growth and Job Stability) and KPI 5 (Geographic and Commuting Factors).
+- Performed data preparation and validation, exploratory analysis, KPI calculation, and visualization.
+- Generated analytical insights to support conclusions related to employee attrition and retention.
+
+ --- 
 
 ## Project Structure
 
